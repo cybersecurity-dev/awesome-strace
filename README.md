@@ -1,5 +1,5 @@
 # Awesome [Strace](https://en.wikipedia.org/wiki/Strace) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-strace is a diagnostic, debugging and instructional [userspace](https://en.wikipedia.org/wiki/User_space_and_kernel_space) utility for Linux.  It is used to monitor and tamper with interactions between processes and the Linux kernel, which include **system calls**, **signal deliveries**, and changes of process state.
+[Strace](https://github.com/strace/strace) is a diagnostic, debugging and instructional [userspace](https://en.wikipedia.org/wiki/User_space_and_kernel_space) utility for Linux.  It is used to monitor and tamper with interactions between processes and the Linux kernel, which include **system calls**, **signal deliveries**, and **changes of process state**.
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
