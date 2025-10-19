@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/Strace">
-      <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Strace_logo.svg" />
+      <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Strace_logo.svg" />
     </a>
 </p>
 
