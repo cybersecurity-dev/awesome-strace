@@ -5,8 +5,9 @@
 </p>
 
 # Awesome [Strace](https://man7.org/linux/man-pages/man1/strace.1.html) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/debugging/new/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://elixir.bootlin.com/linux/v6.17/source)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/debugging/new/)
 
 [Strace](https://github.com/strace/strace) is a diagnostic, debugging and instructional [userspace](https://en.wikipedia.org/wiki/User_space_and_kernel_space) utility for Linux.  It is used to monitor and tamper with interactions between processes and the Linux kernel, which include **system calls**, **signal deliveries**, and **changes of process state**.
 <p align="center">
