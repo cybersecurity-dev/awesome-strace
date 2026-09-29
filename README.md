@@ -1,7 +1,7 @@
 <div align="center">
     <p align="center">
         <a href="https://wikipedia.org/wiki/Strace">
-          <img width="11%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Strace_logo.svg" />
+          <img width="7%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Strace_logo.svg" />
         </a>
     </p>
 
@@ -16,12 +16,66 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+mindmap
+  root((strace))
+
+    Process Tracing
+      New Process
+      Attach Existing PID
+      Follow Forks
+      Trace Threads
+
+    Syscall Monitoring
+      File Operations
+      Process Operations
+      Memory Operations
+      Network Operations
+      IPC Operations
+      Signals
+
+    Output Analysis
+      Arguments
+      Return Values
+      Error Codes
+      Timing
+      Statistics
+
+    Reverse Engineering
+      Program Behavior
+      API Discovery
+      Runtime Analysis
+
+    Malware Analysis
+      IOC Discovery
+      C2 Activity
+      Dropped Files
+      Persistence Analysis
+
+    Performance Analysis
+      Slow Syscalls
+      I/O Bottlenecks
+      Failed Operations
+
+    Security Monitoring
+      File Access
+      Privilege Escalation
+      Process Injection
+      Reconnaissance
+
+    Ecosystem
+      ptrace
+      ltrace
+      gdb
+      Frida
+      eBPF
+```
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
