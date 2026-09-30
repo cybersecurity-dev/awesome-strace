@@ -82,7 +82,7 @@ mindmap
 - [Contributors](#contributors)
 
 > [!TIP]
-
+> Most used commands
 ```bash
 strace -f
 strace -p PID
