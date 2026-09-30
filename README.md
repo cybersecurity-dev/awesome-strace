@@ -11,7 +11,7 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://elixir.bootlin.com/linux/v6.17/source)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PLQHl4nt9k8NE&si=9tC_P5jQojw7y5P5)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/debugging/new/)
-
+> [!IMPORTANT]
 [Strace](https://github.com/strace/strace) is a diagnostic, debugging and instructional [userspace](https://wikipedia.org/wiki/User_space_and_kernel_space) utility for Linux.  It is used to monitor and tamper with interactions between processes and the Linux kernel, which include **system calls**, **signal deliveries**, and **changes of process state**.
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -80,6 +80,21 @@ mindmap
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+> [!TIP]
+
+```bash
+strace -f
+strace -p PID
+strace -o trace.log
+strace -c
+strace -tt
+strace -T
+strace -s 1024
+strace -e trace=file
+strace -e trace=network
+strace -e trace=process
+```
 
 ##
 
